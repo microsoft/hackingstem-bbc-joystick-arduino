@@ -2,7 +2,9 @@
  * 
 
   This code works with the How Do Sharks Swim workbook and lesson plan
-  available from the Microsoft Education Workshop at http://aka.ms/hackingSTEM   
+  available from the Microsoft Education Workshop at 
+  https://aka.ms/shark-lesson
+  http://aka.ms/hackingSTEM   
    
   This projects uses an Arduino UNO microcontroller board. More information can
   be found by visiting the Arduino website: https://www.arduino.cc/en/main/arduinoBoardUno 
@@ -12,8 +14,11 @@
   For each axis there are 2 switches. All switches are set HIGH and there is a common GND. When a switch is
   activated the switch goes LOW. For each pair of switches the code emits 1, 0, or -1 indicating direction. 
 
+  Comments, contributions, suggestions, bug reports, and feature
+  requests are welcome! For source code and bug reports see:
+  https://github.com/microsoft/hackingstem-bbc-joystick-microbit
+
   David Myka, 2018 Microsoft Education Workshop
-  For issues with this code visit: https:aka.ms/hackingstemsupport
   
  *
  */
