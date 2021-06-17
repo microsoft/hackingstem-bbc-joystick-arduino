@@ -16,7 +16,7 @@
 
   Comments, contributions, suggestions, bug reports, and feature
   requests are welcome! For source code and bug reports see:
-  https://github.com/microsoft/hackingstem-bbc-joystick-microbit
+  https://github.com/microsoft/hackingstem-bbc-joystick-arduino
 
   David Myka, 2018 Microsoft Education Workshop
   
